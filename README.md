@@ -1,4 +1,4 @@
-![SoftEther VPN](https://img.icons8.com/color/480/softether-vpn.png){ height=180px }
+![SoftEther VPN](https://alexlanka.com/assets/images/softwares-icons/62685f13ba6a5-1651007251.png)
 
 # SoftEther VPN installer script
 
