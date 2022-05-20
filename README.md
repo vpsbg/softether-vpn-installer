@@ -1,4 +1,6 @@
-![SoftEther VPN](https://alexlanka.com/assets/images/softwares-icons/62685f13ba6a5-1651007251.png)
+<p align="center">
+  <img height="180" src="https://alexlanka.com/assets/images/softwares-icons/62685f13ba6a5-1651007251.png">
+</p>
 
 # SoftEther VPN installer script
 
