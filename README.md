@@ -1,4 +1,4 @@
-![SoftEther VPN](https://img.icons8.com/color/480/softether-vpn.png =180x)
+![SoftEther VPN](https://img.icons8.com/color/480/softether-vpn.png){ height=180px }
 
 # SoftEther VPN installer script
 
